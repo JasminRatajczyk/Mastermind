@@ -1,0 +1,30 @@
+Mastermind- Probleme:
+
+- Zurück zum Menü von neuem Fenster aus?
+- Einstellungsfenster schließen, wenn fertig
+- Menü im Hintergrund laufen lassen?
+- Netzwerkoptionen
+- werden Optionen im Menü überhaupt benötigt
+- Spielanleitung
+- Parameter in Klasse Frame für Einstellungen    (Berücksichtigung von Standardeinstellung)
+
+- Netzwerkzeug und Client- Spiel in Voreinstellungen bei 
+  "neues Spiel"
+
+- Highscore im Hauptmenü? Alternativ automatisch am Ende 
+  allerdings kann es dann ohne Spiel nicht angeschaut     werden
+
+- Infromationen/Credits notwendig?
+
+- Buttons müssen Group- Buttons werden
+  -> auswahl -> auswahl farbe
+
+- wenn 5 pins eingestellt, die anderen zehn ausgegraut,   falls ganz weg nicht funktioniert?
+
+- die code- Buttons sollten noch anders designte Icons bekommen
+
+
+- scroll Panel anzeigen, wenn panel voll ist
+
+
+- Effekt bei buttons anpassen bzw filter
